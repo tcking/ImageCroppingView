@@ -7,6 +7,7 @@ A custom ImageView that can panning, pinch zoom, double tap zoom,fling and cropp
 usage:
 
 1.copy `ImageCroppingView.java` to your project
+
 2.add a ImageCroppingView to layout file:
 ``` xml
 <com.github.tcking.imagecroppingview.ImageCroppingView
