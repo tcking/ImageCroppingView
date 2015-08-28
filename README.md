@@ -21,3 +21,5 @@ usage:
 final ImageCroppingView croppingView = (ImageCroppingView)findViewById(R.id.cropping_view);
 Bitmap target=croppingView.getCroppedImage()
 ```
+
+<code>ImageCroppingView</code> only help you to cropping a photo,if you want a easy way to get a photo [**PhotoHelper**](https://github.com/tcking/PhotoHelper) may help you
